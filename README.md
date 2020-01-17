@@ -1,2 +1,2 @@
 Gatsby-Sweet
-主分支
+sweet分支
